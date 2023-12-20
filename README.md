@@ -24,12 +24,10 @@ Make sure you have Python installed on your system.
 Check this results out hre
 
 Before:
-https://raw.githubusercontent.com/anonithrax/mailextrt/main/img/before.png
 ![image](https://github.com/anonithrax/mailextrt/assets/108882092/a54e3a9b-8987-482c-ad08-632674f9e749)
 
 
 After:
-https://raw.githubusercontent.com/anonithrax/mailextrt/main/img/after.png
 ![image](https://github.com/anonithrax/mailextrt/assets/108882092/fec14e4a-1e5c-4c98-a709-30370a9263ab)
 
 
