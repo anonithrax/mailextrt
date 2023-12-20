@@ -21,6 +21,15 @@ Make sure you have Python installed on your system.
    git clone https://github.com/anonithrax/mailextrt.git
 
 
+Check this results out hre
+
+Before:
+https://raw.githubusercontent.com/anonithrax/mailextrt/main/img/before.png
+
+After:
+https://raw.githubusercontent.com/anonithrax/mailextrt/main/img/after.png
+
+
 Configuration
 No additional configuration is required.
 Contributing
