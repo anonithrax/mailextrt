@@ -1,3 +1,4 @@
+# cool one ?? https://t.me/+_mopolg7ktBhY2Jl
 import tkinter as tk
 from tkinter import filedialog
 
@@ -14,11 +15,9 @@ def browse_file():
         extract_text(file_path)
         result_label.config(text="Extraction completed. Check extracted_file.txt.")
 
-# Create the main window
 root = tk.Tk()
 root.title("Text Extraction GUI")
 
-# Create and pack widgets
 instructions_label = tk.Label(root, text="Select a text file to extract text:")
 instructions_label.pack(pady=10)
 
@@ -28,5 +27,6 @@ browse_button.pack(pady=10)
 result_label = tk.Label(root, text="")
 result_label.pack(pady=10)
 
-# Run the GUI
 root.mainloop()
+
+# https://t.me/+_mopolg7ktBhY2Jl
